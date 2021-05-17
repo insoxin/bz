@@ -30,7 +30,7 @@ function init0() {
 
 }
 
-/* pages post必须得ssl的啊 */
+
 function init() {
     $.post("https://aibizhi.isoyu.com/v1/" + hv + "/category/" + a + "/" + hv + "?limit=" + b + "&skip=" + c + "&adult=true&first=0&order=" + d, function (data) {
         var imgs = document.getElementsByClassName("img");
