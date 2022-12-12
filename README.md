@@ -1,5 +1,10 @@
 # a
-a.pages.dev
+
+
+https://aibizhi.ml/
+
+https://a.pages.dev
+
 初代源码
 
 # 安装
