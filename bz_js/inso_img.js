@@ -6,7 +6,7 @@ var d = "hot";
 var currentPage = 0;
 var imgsUrl = [];
 var i;
-c = Math.floor(Math.random() * 1000) + 100;
+c = Math.floor(Math.random() * 250) + 0;
 
 
 $(function () {
