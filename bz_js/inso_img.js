@@ -82,7 +82,7 @@ function next() {
 }
 
 function random() {
-    c = Math.floor(Math.random() * 1000) + 100;
+    c = Math.floor(Math.random() * 250) + 0;
     init();
 }
 
@@ -97,42 +97,42 @@ function title_image() {
 
 function girls() {
     currentPage = 0;
-    c = Math.floor(Math.random() * 1000) + 100;
+    c = Math.floor(Math.random() * 250) + 0;
     a = "4e4d610cdf714d2966000000";
     init();
 }
 
 function scenery() {
     currentPage = 0;
-    c = Math.floor(Math.random() * 1000) + 100;
+    c = Math.floor(Math.random() * 250) + 0;
     a = "4e4d610cdf714d2966000002";
     init();
 }
 
 function animation() {
     currentPage = 0;
-    c = Math.floor(Math.random() * 1000) + 100;
+    c = Math.floor(Math.random() * 250) + 0;
     a = "4e4d610cdf714d2966000003";
     init();
 }
 
 function animals() {
     currentPage = 0;
-    c = Math.floor(Math.random() * 1000) + 100;
+    c = Math.floor(Math.random() * 250) + 0;
     a = "4e4d610cdf714d2966000001";
     init();
 }
 
 function game() {
     currentPage = 0;
-    c = Math.floor(Math.random() * 1000) + 100;
+    c = Math.floor(Math.random() * 250) + 0;
     a = "4e4d610cdf714d2966000007";
     init();
 }
 
 function machine() {
     currentPage = 0;
-    c = Math.floor(Math.random() * 1000) + 100;
+    c = Math.floor(Math.random() * 250) + 0;
     a = "4e4d610cdf714d2966000005";
     init();
 }
@@ -140,70 +140,70 @@ function machine() {
 
 function paint() {
     currentPage = 0;
-    c = Math.floor(Math.random() * 1000) + 100;
+    c = Math.floor(Math.random() * 250) + 0;
     a = "4e4d610cdf714d2966000004";
     init();
 }
 
 function word() {
     currentPage = 0;
-    c = Math.floor(Math.random() * 1000) + 100;
+    c = Math.floor(Math.random() * 250) + 0;
     a = "5109e04e48d5b9364ae9ac45";
     init();
 }
 
 function visual() {
     currentPage = 0;
-    c = Math.floor(Math.random() * 1000) + 100;
+    c = Math.floor(Math.random() * 250) + 0;
     a = "4fb479f75ba1c65561000027";
     init();
 }
 
 function monogatari() {
     currentPage = 0;
-    c = Math.floor(Math.random() * 1000) + 100;
+    c = Math.floor(Math.random() * 250) + 0;
     a = "4fb47a465ba1c65561000028";
     init();
 }
 
 function design() {
     currentPage = 0;
-    c = Math.floor(Math.random() * 1000) + 100;
+    c = Math.floor(Math.random() * 250) + 0;
     a = "4fb47a195ba1c60ca5000222";
     init();
 }
 
 function emotion() {
     currentPage = 0;
-    c = Math.floor(Math.random() * 1000) + 100;
+    c = Math.floor(Math.random() * 250) + 0;
     a = "4ef0a35c0569795756000000";
     init();
 }
 
 function city() {
     currentPage = 0;
-    c = Math.floor(Math.random() * 1000) + 100;
+    c = Math.floor(Math.random() * 250) + 0;
     a = "4fb47a305ba1c60ca5000223";
     init();
 }
 
 function film() {
     currentPage = 0;
-    c = Math.floor(Math.random() * 1000) + 100;
+    c = Math.floor(Math.random() * 250) + 0;
     a = "4e58c2570569791a19000000";
     init();
 }
 
 function handsome() {
     currentPage = 0;
-    c = Math.floor(Math.random() * 1000) + 100;
+    c = Math.floor(Math.random() * 250) + 0;
     a = "4e4d610cdf714d2966000006";
     init();
 }
 
 function stars() {
     currentPage = 0;
-    c = Math.floor(Math.random() * 1000) + 100;
+    c = Math.floor(Math.random() * 250) + 0;
     a = "5109e05248d5b9368bb559dc";
     init();
 }
