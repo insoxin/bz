@@ -22,7 +22,7 @@ function init0() {
     for (var k = 0; k < b; k++) {
         div_row.append("  <div id=\"width\" class=\"col-lg-2 col-md-3 col-sm-6 col-xs-6\" style=\"padding: 5px\">\n" +
             "            <img class=\"img\"\n" +
-            "                 src=\"https://quantil.jsdelivr.net/gh/insoxin/bz@main/insoimg/loading.gif\"\n" +
+            "                 src=\"https://gcore.jsdelivr.net/gh/insoxin/bz@main/insoimg/loading.gif\"\n" +
             "                 alt=\"图片加载中...\"\n" +
             "            >\n" +
             "        </div>");
